@@ -32,9 +32,7 @@ This repository contains the implementation of MobileNet for the MNIST dataset. 
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
+
 
 ## Dependencies
 Make sure you have the following dependencies installed:
